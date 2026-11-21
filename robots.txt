@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alex398378.github.io/sitemap.xml
